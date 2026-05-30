@@ -1,0 +1,26 @@
+[
+  {
+    "titulo": "Web NASA",
+    "descripcion": "Conexion con API NASA usando ASP.NET Core.",
+    "imagen": "/img/projects/nasa.jpg",
+    "githubUrl": "https://github.com/hernannequi/nasa-app",
+    "demoUrl": "https://nasa-demo.onrender.com",
+    "tecnologias": [
+      "ASP.NET Core",
+      "Bootstrap 5",
+      "REST API"
+    ]
+  },
+  {
+    "Titulo": "Catalogo Web",
+    "Descripcion": "Sistema web de catalogo de productos.",
+    "Imagen": "/img/projects/catalogo.jpg",
+    "GithubUrl": "https://github.com/hernannequi/catalogo",
+    "DemoUrl": "",
+    "Tecnologias": [
+      "SQL Server",
+      "Entity Framework",
+      "Razor"
+    ]
+  }
+]
