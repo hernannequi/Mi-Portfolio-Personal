@@ -1,0 +1,37 @@
+[
+  {
+    "Rol": "Tecnico de PC y Notebook",
+    "Empresa": "Servicio Tecnico \"Torky\"",
+    "FechaInicioFinEmpleo": "Noviembre 2025 - Actualmente",
+    "Descripcion": "Armado, mantenimiento, diagnóstico y reparación de PC y notebooks. Instalación y configuración de software y sistemas operativos, brindando soporte técnico y atención a clientes.",
+    "UrlEmpresa": ""
+  },
+  {
+    "Rol": "Analista Desarrollador .NET",
+    "Empresa": "Software Logistico \"Brainsys\"",
+    "FechaInicioFinEmpleo": "Enero 2025 - Octubre 2025",
+    "Descripcion": "Participación en implementaciones e integraciones B2B entre sistemas WMS/TMS, ERP y plataformas e-commerce utilizando APIs REST, SOAP, FTP y SQL Server. Colaboración en relevamiento de requerimientos, análisis funcional, testing, documentación y validación de procesos junto a clientes y usuarios. Automatización de circuitos logísticos y de facturación mediante integraciones con Mercado Libre, Bejerman, Rojosoft y otros sistemas externos bajo metodología Scrum.",
+    "UrlEmpresa": "https://brainsys.com.ar/"
+  },
+  {
+    "Rol": "Impresor Digital",
+    "Empresa": "Imprenta \"Tio Toto\"",
+    "FechaInicioFinEmpleo": "Diciembre 2021 - Diciembre 2024",
+    "Descripcion": "Atención al público en entornos de alta demanda, gestión de pedidos, cotización, impresión y diseño de archivos digitales utilizando software especializado dentro del rubro gráfico.",
+    "UrlEmpresa": "https://www.impresionestiototo.com.ar/about"
+  },
+  {
+    "rol": "Impresor Digital",
+    "empresa": "Imprenta \"El Profe\"",
+    "fechaInicioFinEmpleo": "Marzo 2019 - Noviembre 2021",
+    "descripcion": "Realización de trabajos de impresión, diseño y cotización de archivos digitales, brindando atención y asesoramiento a clientes.",
+    "UrlEmpresa": ""
+  },
+  {
+    "Rol": "Soporte tecnico IT remoto/in situ",
+    "Empresa": "Servicio Tecnico \"Omega\"",
+    "FechaInicioFinEmpleo": "Enero 2017 – Febrero 2019",
+    "Descripcion": "Soporte técnico presencial y remoto, instalación de software, configuración de entornos Windows y reparación de hardware para usuarios finales.",
+    "UrlEmpresa": ""
+  }
+]
