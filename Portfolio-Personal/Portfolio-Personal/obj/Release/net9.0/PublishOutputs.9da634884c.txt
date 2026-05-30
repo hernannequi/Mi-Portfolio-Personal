@@ -1,0 +1,10 @@
+C:\Users\Hernan\Documents\Nequidev\Git\Portfolio-Personal\Portfolio-Personal\obj\Release\net9.0\PubTmp\Out\Portfolio-Personal.exe
+C:\Users\Hernan\Documents\Nequidev\Git\Portfolio-Personal\Portfolio-Personal\obj\Release\net9.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Hernan\Documents\Nequidev\Git\Portfolio-Personal\Portfolio-Personal\obj\Release\net9.0\PubTmp\Out\appsettings.json
+C:\Users\Hernan\Documents\Nequidev\Git\Portfolio-Personal\Portfolio-Personal\obj\Release\net9.0\PubTmp\Out\Portfolio-Personal.dll
+C:\Users\Hernan\Documents\Nequidev\Git\Portfolio-Personal\Portfolio-Personal\obj\Release\net9.0\PubTmp\Out\Portfolio-Personal.deps.json
+C:\Users\Hernan\Documents\Nequidev\Git\Portfolio-Personal\Portfolio-Personal\obj\Release\net9.0\PubTmp\Out\Portfolio-Personal.runtimeconfig.json
+C:\Users\Hernan\Documents\Nequidev\Git\Portfolio-Personal\Portfolio-Personal\obj\Release\net9.0\PubTmp\Out\Portfolio-Personal.pdb
+C:\Users\Hernan\Documents\Nequidev\Git\Portfolio-Personal\Portfolio-Personal\obj\Release\net9.0\PubTmp\Out\BouncyCastle.Cryptography.dll
+C:\Users\Hernan\Documents\Nequidev\Git\Portfolio-Personal\Portfolio-Personal\obj\Release\net9.0\PubTmp\Out\MailKit.dll
+C:\Users\Hernan\Documents\Nequidev\Git\Portfolio-Personal\Portfolio-Personal\obj\Release\net9.0\PubTmp\Out\MimeKit.dll

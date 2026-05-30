@@ -1,0 +1,29 @@
+[
+  {
+    "titulo": "NASA Viewer",
+    "descripcion": "NASA Viewer es una aplicación web desarrollada con ASP.NET Core Razor Pages que consume múltiples APIs oficiales de NASA para explorar imágenes espaciales, galerías satelitales y mapas interactivos.",
+    "imagen": "/img/projects/nasa-viewer.png",
+    "githubUrl": "https://github.com/hernannequi/Nasa-Viewer",
+    "demoUrl": "https://github.com/hernannequi/Nasa-Viewer",
+    "tecnologias": [
+      "ASP.NET Core",
+      "API REST",
+      "Bootstrap",
+      "Manejo de MemoryCache"
+    ]
+  },
+  {
+    "titulo": "Mi Portfolio Web",
+    "descripcion": "Portfolio personal enfocado en presentar mi experiencia como Analista Programador .NET. Incluye proyectos, experiencia laboral, formación académica, formulario de contacto funcional y diseño responsive con soporte dark/light mode.",
+    "imagen": "/img/projects/portfolio-personal.png",
+    "githubUrl": "https://github.com/hernannequi/Mi-Portfolio-Personal",
+    "demoUrl": "https://www.portfolio-hernan-nequi.somee.com/",
+    "tecnologias": [
+      "C#",
+      "ASP.NET Core MVC",
+      "Razor",
+      "Bootstrap",
+      "SMTP (Gmail)"
+    ]
+  }
+]
